@@ -1,2 +1,3 @@
-# .github
+# Inspiring Joe
+
 About Inspiring Joe
